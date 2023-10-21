@@ -1,4 +1,3 @@
-[![MasterHead](https://img-b.udemycdn.com/course/750x422/5319816_3717_10.jpg)
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
