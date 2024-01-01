@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmzsyt&label=Profile%20views&color=0e75b6&style=flat" alt="gmzsyt" /> </p>
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/gmzsyt/e-commerce)
+- 🔭 I’m currently working on Java, JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
